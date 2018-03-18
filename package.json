@@ -1,7 +1,7 @@
 {
   "name": "d3js",
   "version": "0.0.1",
-  "description": "Testing D3js capabilities",
+  "description": "Testing D3js capabilities - found an issue with node-dbf: view bug here https://github.com/abstractvector/node-dbf/issues/28",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
