@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Mac OS junk
+.DS_Store
+
+#PHPStorm junk
+.idea/
